@@ -1,0 +1,20 @@
+title = "Brave Dungeon"
+description = "RPG, Adventure - INSIDE SYSTEM\nJoin intrepid adventurer Al as she explores the dangerous labyrinths of Belfer Island in search of powerful Magic Items. Along the way Al will join forces with strong allies and face even stronger enemies. Can Al conquer the imposing dungeon known as Godshill and find the ultimate Magic Item?"
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "00040000001C0100"
+region = "usa"
+release_date = "2017-03-30"
+
+[[testcases]]
+title = "00040000001c0100"
+compatibility = "1"
+date = "2017-11-06"
+version = "HEAD-c6b2cc2"
+cpu = "Intel Core i5-7500"
+gpu = "GeForce GTX 1050"
+os = "Windows 7 6.1.7601"
+author = "bigger0gamer"
